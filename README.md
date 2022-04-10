@@ -4,7 +4,7 @@
 1. (inner) join
 2. left (outer) join
 3. right (outer) join
-4. cross join
+4. cross join : returns the Cartesian product of the joined tables
 
 ![image](https://user-images.githubusercontent.com/79159894/162604926-3d1f6e35-1b98-4afb-a385-0a77deca0cd9.png)
 
