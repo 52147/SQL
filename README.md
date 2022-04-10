@@ -5,6 +5,9 @@
 2. left (outer) join
 3. right (outer) join
 4. cross join : returns the Cartesian product of the joined tables
+5. full join
+   - FULL JOIN is essentially a LEFT JOIN combined with a RIGHT JOIN.
+   - Combines all rows from both tables.
 
 ![image](https://user-images.githubusercontent.com/79159894/162604926-3d1f6e35-1b98-4afb-a385-0a77deca0cd9.png)
 
