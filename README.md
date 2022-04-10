@@ -10,8 +10,8 @@
 
 
 ## DENSE_RANK
--  is one of the vital Analytic functions of Oracle. 
--  It is used to get the rank of a row in a group of rows. It always results in the consecutive ranking of the rows.
+-  It is used to get the rank of a row in a group of rows. 
+-  It always results in the consecutive ranking of the rows.
 
 ## COALESCE
 - The COALESCE() function returns the first non-null value in a list.
